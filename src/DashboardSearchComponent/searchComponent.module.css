@@ -1,7 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
 
+*{
+  box-sizing: border-box;
+}
 .form{
-  min-width: 327px;
+  min-width: 270px;
   width: 40.56%;
   height: 56px;
   box-sizing: border-box;

@@ -133,7 +133,7 @@ function ReviewMessages({ details }) {
           <div
             className={styles.reviewerAvatar}
             aria-label="reviewer display"
-            styles={{
+            style={{
               backgroundImage: `url(${details.image})`,
             }}
           ></div>
