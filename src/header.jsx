@@ -6,7 +6,7 @@ export default function Header() {
       <nav>
         <ul>
           <Link to="search-component">
-            <li>Text to Speech Search Component</li>
+            <li>Speech to text Search Component</li>
           </Link>
           <Link to="/review-page">
             <li>Review Page</li>
